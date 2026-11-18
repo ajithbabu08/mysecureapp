@@ -1,0 +1,3 @@
+<resources>
+    <string name="accessibility_service_description">Detects when you open apps you selected so App Locker can request your PIN. It does not read screen content.</string>
+</resources>
